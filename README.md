@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Keshaun Jones!  
 
-![Banner](https://via.placeholder.com/800x200?text=Full-Stack+Developer+|+Innovator+|+Tech+Enthusiast)  
+![Banner](![Header](./your-header-image-name.png))  
 
 ## 🚀 About Me  
 - 🖥️ **Full-Stack Developer** passionate about creating dynamic and secure web applications.  
