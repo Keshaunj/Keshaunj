@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Keshaun Jones!  
 
-![Banner](https://imgur.com/a/Wk4YPom
-)  
+https://imgur.com/a/Wk4YPom
 
 ## 🚀 About Me  
 - 🖥️ **Full-Stack Developer** passionate about creating dynamic and secure web applications.  
