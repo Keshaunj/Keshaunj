@@ -41,7 +41,7 @@
 
 ## 🌟 Projects I'm Proud Of  
 - [🔗 **Solana Wallet Project**](https://github.com/Keshaunj/solana-wallet): My latest project exploring the **Solana blockchain** and wallet integration.  
-- [🔗 **Crypto Tracker**](https://github.com/Keshaunj/react-crypto-tracker): A real-time cryptocurrency tracker built with React.  
+- [🔗 **Crypto Tracker**]([ ](https://github.com/Keshaunj/solana-dapp)A real-time cryptocurrency tracker built with React.  
 - [🔗 **Secure Auth API**](https://github.com/Keshaunj/secure-auth-api): A robust authentication system using Node.js, Argon2, and JWTs.  
 
 ---
